@@ -1,0 +1,189 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The dominion of the seed of God throughout all generations, or, The heighth and breadth and length and depth of the love of God which passeth knowledge in the sending of his Son Christ Jesus into the world, that whosoever believeth in Him should not perish but have life everlasting / by Geo. Bishope.</title>
+            <author>Bishop, George, d. 1668.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1667</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A28229</idno>
+            <idno type="STC">Wing B2991</idno>
+            <idno type="STC">ESTC R25632</idno>
+            <idno type="EEBO-CITATION">09049950</idno>
+            <idno type="OCLC">ocm 09049950</idno>
+            <idno type="VID">42313</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A28229)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42313)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1276:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The dominion of the seed of God throughout all generations, or, The heighth and breadth and length and depth of the love of God which passeth knowledge in the sending of his Son Christ Jesus into the world, that whosoever believeth in Him should not perish but have life everlasting / by Geo. Bishope.</title>
+                  <author>Bishop, George, d. 1668.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1667.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Salvation.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-12</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Claire Tolan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Claire Tolan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:42313:1" rendition="simple:additions"/>
+            <p> THE DOMINION OF THE Seed of God Throughout <hi>all</hi> GENERATIONS: OR, The <hi>heighth,</hi> and <hi>breadth,</hi> and <hi>length,</hi> and <hi>depth</hi> of the <hi>Love</hi> of <hi>GOD,</hi> which paſſeth knowledge, in the ſending of his Son CHRIST JESUS into the VVorld, that whoſoever be<g ref="char:EOLhyphen"/>lieveth in <hi>Him</hi> ſhould not periſh, but have <hi>Life</hi> Everlaſting.</p>
+            <p>By GEO. BISHOPE.</p>
+            <p>
+               <q>
+                  <hi>For God ſo loved the World, that he gave his only begotten Son, that whoſoever believeth in him, ſhould not periſh, but have everlasting-life. For God ſent not his Son into the World to condemn the World, but that the World through him might be ſaved.</hi>
+                  <bibl>Joh. 3. 16, 17.</bibl>
+               </q>
+            </p>
+            <p>
+               <hi>London,</hi> Printed in the Year, 1667.</p>
+            <pb facs="tcp:42313:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="3" facs="tcp:42313:2"/>
+            <head>The Dominion of the Seed, &amp;c.</head>
+            <p>I Am to treat of a <hi>thing</hi> of the <hi>greateſt</hi> weight, therefore ſet <hi>all</hi> fleſh be ſilent; and whilſt <hi>I</hi> am treating of things of <hi>this</hi> nature, let the <hi>Witneſs</hi> of <hi>God</hi> be heeded and obſerved, which only can give to underſtand the <hi>things</hi> of <hi>God,</hi> which are <hi>ſpiritually</hi> diſ<g ref="char:EOLhyphen"/>cerned.</p>
+            <p>There is a great ado in the World concerning <hi>Christ,</hi> and <hi>Re<g ref="char:EOLhyphen"/>demption,</hi> and <hi>Sanctification,</hi> and <hi>Salvation;</hi> and <hi>many</hi> would die the <hi>death</hi> of the <hi>Righteous,</hi> and do wiſh that <hi>their</hi> latter end might be like <hi>his,</hi> as it was the caſe of <hi>Balaam</hi> when his eyes were opened; b<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t <hi>few</hi> do know or underſtand what <hi>Chriſt</hi> is, or <hi>Sanctification,</hi> or <hi>Redemption,</hi> much leſs do live the <hi>life</hi> of the <hi>Righteous,</hi> and ſo at<g ref="char:EOLhyphen"/>tain unto <hi>Salvation.</hi> Therefore am I moved of the <hi>Lord</hi> to open this <hi>Myſtery,</hi> and to write of the <hi>things</hi> relating thereunto in <hi>plain</hi> and <hi>legible</hi> characters, that the <hi>Eye</hi> that ſees not may ſee, and the <hi>Ear</hi> that hears not may underſtand; and that thoſe who do neither, may be concluded and ſhut up, now that the <hi>Gospel</hi> is opened, and be left unto the <hi>day</hi> that is near, wherein <hi>every</hi> one will be rewarded as <hi>his</hi> work ſhall be.</p>
+            <p>The <hi>Gospel</hi> of <hi>Salvation</hi> is <hi>Chriſt Jeſus;</hi> the <hi>Wiſdom</hi> of <hi>God,</hi> and the <hi>Power</hi> of <hi>God;</hi> and the <hi>Word</hi> that ſanctifies is the <hi>ſame</hi> that ſaves, and there is <hi>no</hi> Salvation, but as <hi>Chriſt Jeſus,</hi> the <hi>Word,</hi> the <hi>Gospel</hi> of <hi>Salvation,</hi> redeems, and ſanctifies. And this is <hi>Truth.</hi>
+            </p>
+            <p>Therefore <hi>all ye</hi> who ſtand in a <hi>ſtate</hi> expecting Salvation, and are not redeemed or ſanctified, your Expectation is <hi>vain,</hi> and <hi>you</hi> will die in <hi>your</hi> ſins: For, <hi>he became the Author of Eternal Salvation unto all them that obey him,</hi> Heb. 5. 9. <hi>Even to them that believe in his Name,</hi> Joh. 1. 12. And, <hi>whom he juſtified, them he alſo glorified, Rom.</hi> 8. 30. And, <hi>If I waſh thee not, thou hast no part in me,</hi> John 13. 8. And, <hi>the Soul that ſinneth, it ſhall die,</hi> Ezek. 8. 4. Therefore deceive not your ſelves with any <hi>vain</hi> hope in <hi>things</hi> of <hi>this</hi> nature, which are of the <hi>higheſt</hi> conſequence; For it will be <hi>too</hi> late for <hi>you</hi> theſe things to conſider, when you come to be rewarded as <hi>your</hi> work ſhall be.</p>
+            <pb n="4" facs="tcp:42313:3" rendition="simple:additions"/>
+            <p> Then there are <hi>many</hi> who receive the <hi>Truth,</hi> and hold it in <hi>un<g ref="char:EOLhyphen"/>righteouſneſs;</hi> and though they know the <hi>Way of Peace,</hi> yet they turn from the <hi>holy Commandment,</hi> and the <hi>latter end</hi> of theſe men will be <hi>worſe</hi> than their <hi>beginning,</hi> and <hi>they</hi> will receive according to <hi>their</hi> deeds.</p>
+            <p>Moreover, there be, who having turned ftom the <hi>Way of Righte<g ref="char:EOLhyphen"/>ouſneſs,</hi> and the <hi>holy Commandment,</hi> are <hi>yet</hi> notwithſtanding <hi>righteous</hi> in their <hi>own</hi> eyes; whoſe End ſhall be as is <hi>their</hi> Work.</p>
+            <p>Finally there <hi>are,</hi> who having known the <hi>Lord,</hi> or rather are known of <hi>him,</hi> do follow on to know <hi>him,</hi> whoſe goings forth are from <hi>Ever<g ref="char:EOLhyphen"/>laſting;</hi> in the knowledge of whom is <hi>Everlasting Life;</hi> and theſe are <hi>they</hi> who are the <hi>Seed</hi> of the <hi>Lord,</hi> the <hi>Plants</hi> of his planting, that <hi>He</hi> may be glorified; and for theſe <hi>he</hi> will give <hi>Nations,</hi> and People for <hi>their</hi> Ranſome, and <hi>they</hi> ſhall be called, the <hi>Bleſſed of the Lord,</hi> and <hi>his</hi> Off-ſpring with <hi>him.</hi> And of theſe <hi>I</hi> am to ſpeak, and concerning <hi>theſe</hi> is what <hi>I</hi> have to ſay to be terminated, and the <hi>Revelation of God</hi> in <hi>me</hi> at <hi>this</hi> time is terminated to <hi>theſe,</hi> and con<g ref="char:EOLhyphen"/>cerning <hi>theſe</hi> this Queſtion comes to be determined.</p>
+            <p>Viz. <hi>
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hether the Decree or Determination of God, concerning theſe only was lodged with him for their Eternal Salvation, before the foun<g ref="char:EOLhyphen"/>dation of the World?</hi> Or, <hi>Whether the Salvation of theſe only, was that which in the deſign of the Lord was before him from all eternity, and none other?</hi>
+            </p>
+            <p>And here <hi>I</hi> have many things to ſay, and of <hi>very</hi> great weight, which <hi>I</hi> ſhould not enter upon, nor undertake to determine, or treat of, but that the <hi>Revelation of God</hi> is with <hi>me</hi> as to <hi>this</hi> particular, and a <hi>Neceſſity</hi> from <hi>him</hi> thus to ſpeak; which <hi>I</hi> thought fit to pre<g ref="char:EOLhyphen"/>miſe, leſt <hi>any</hi> ſhould think that <hi>I</hi> was either prying into things that are not revealed, or medling with that which ſuch may think it were better to let alone, and kept in the <hi>Womb,</hi> and never ſee the <hi>Sun.</hi>
+            </p>
+            <p>But to theſe <hi>I</hi> ſay as before; and further; That the <hi>Revelation of God</hi> ſtands not in <hi>times,</hi> or <hi>perſons,</hi> but where, and as <hi>he</hi> will <hi>he</hi> reveals himſelf, and who ſhall ſay unto him, <hi>What doest Thou?</hi> And when <hi>he</hi> will ſhew his <hi>Secret,</hi> it muſt be revealed; and ſo <hi>I</hi> come to give an <hi>Anſwer</hi> to the <hi>Question.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Thus then; The <hi>Docree,</hi> or <hi>Determination</hi> of <hi>God,</hi> in reference to the <hi>Salvation</hi> or <hi>Reprobation</hi> of any, reſts not, nor is terminated in the <hi>Perſons</hi> of any, but the <hi>Seeds; Jacob</hi> and <hi>Eſau;</hi> the <hi>Seed</hi>
+               <pb n="5" facs="tcp:42313:3"/> of the <hi>Serpent,</hi> and the <hi>Seed</hi> of the <hi>Woman,</hi> of which <hi>Jacob</hi> and <hi>Eſau</hi> were the <hi>figures;</hi> As any are found in the <hi>Seeds</hi> aforeſaid, ſo are <hi>they</hi> concluded with the <hi>one</hi> and with the <hi>other,</hi> either to <hi>Salvation</hi> or <hi>Death,</hi> as is the <hi>ſtate</hi> of each. For the <hi>Lord</hi> accepts of <hi>no</hi> man for his Goodneſs, nor rejects he any for <hi>their</hi> Evil, <hi>quatenus,</hi> or, as <hi>they</hi> are Men, the <hi>Creatures</hi> that <hi>he</hi> hath made, but as the <hi>ſpirit</hi> of either of the <hi>Seeds</hi> worketh, or is the <hi>root</hi> of either; ſo <hi>he</hi> rejects, ſo <hi>he</hi> ac<g ref="char:EOLhyphen"/>cepts.</p>
+            <p>And <hi>here</hi> is the miſtake of <hi>Men,</hi> and the <hi>great</hi> puzzle in which <hi>they</hi> are who determine of theſe things, without, or not knowing the <hi>Counſel</hi> of the <hi>Lord.</hi> They conclude according to <hi>themſelves,</hi> and the <hi>Darkneſs</hi> in which <hi>they</hi> are, That the <hi>perſons,</hi> or the <hi>bare cleaving</hi> unto that which is <hi>good,</hi> or chooſing, or being guided by that which is <hi>evil,</hi> is that which is the <hi>ground</hi> or <hi>bottom</hi> of <hi>Election</hi> or <hi>Reprobation,</hi> and there place the <hi>Decree</hi> and <hi>Determination</hi> of <hi>God;</hi> as if ſo be <hi>he</hi> had determined <hi>ſome</hi> to the <hi>one,</hi> and <hi>ſome</hi> to the <hi>other</hi> from all Eter<g ref="char:EOLhyphen"/>nity; and that <hi>they</hi> cleaving unto the <hi>one,</hi> and chooſing the <hi>other,</hi> are <hi>there</hi> foreſeen and determined. And ſo as on the <hi>one</hi> hand they would hitch the <hi>Foundation</hi> of <hi>God,</hi> and <hi>his</hi> Purpoſe as to <hi>Man,</hi> on the feeble twig of <hi>Mans freewill;</hi> ſo on the <hi>other,</hi> they would lay the <hi>ground</hi> and <hi>root</hi> of both on the <hi>Decree</hi> of <hi>God</hi> that there hath put <hi>Men,</hi> or in the <hi>ſtate</hi> of <hi>each,</hi> which <hi>they</hi> cannot paſſe. And ſo have placed theſe things which are of <hi>unfathomable</hi> depth and certainty, upon the <hi>reeling</hi> foundation of <hi>their</hi> own mind. For, if the <hi>Lord</hi> had ſo concluded <hi>Man</hi> from <hi>all</hi> Eternity, there could be <hi>no</hi> Alteration: but <hi>Man</hi> muſt be determined according as <hi>He</hi> had concluded him: For, the <hi>Decree</hi> and <hi>Determination</hi> of the <hi>Lord</hi> who can reſiſt? for it is like himſelf, <hi>unchangeable</hi> and <hi>abiding</hi> for ever. And ſo the <hi>Lord</hi> would have complained (as a <hi>man</hi> may ſpeak after the <hi>manner</hi> of <hi>men)</hi> againſt <hi>himſelf,</hi> when he found fault with <hi>man;</hi> and <hi>all</hi> that which is ſpoken of <hi>Redemption</hi> and <hi>Christ Ieſus</hi> had ſignified little; for, by an <hi>unalterable</hi> Decree, Man was (if <hi>this</hi> ſhould be ſo) <hi>before<g ref="char:EOLhyphen"/>hand</hi> concluded. Or, if it ſtood upon the <hi>Acceptance</hi> of <hi>Man,</hi> or <hi>his</hi> choice or will that <hi>he</hi> is ſaved, or a <hi>Veſſel of Mercy,</hi> the <hi>foundation</hi> of God muſt lie tottering as <hi>man</hi> is <hi>himſelf.</hi>
+            </p>
+            <p>But theſe things have another depth, and the <hi>man of Wiſdom</hi> ſees it, wherein the <hi>Lord</hi> is certain of <hi>his</hi> Determination, and yet not at all concluding <hi>man</hi> to the <hi>one,</hi> or the <hi>other,</hi> as aforſaid. Which that
+<pb n="6" facs="tcp:42313:4"/> it may be <hi>plain</hi> unto the <hi>Sons</hi> of <hi>Men;</hi> and that <hi>they</hi> may ſee how it is, and be convinced, or left without excuſe; the <hi>Revelation</hi> of <hi>God</hi> hath been with <hi>me</hi> as hath been ſaid. And ſo <hi>I</hi> come to open the <hi>Matter</hi> a <hi>little</hi> further; and to give demonſtration in the <hi>thing,</hi> which may <hi>reaſonably</hi> convince <hi>Men</hi> that it is <hi>ſo</hi> as I have ſhewen, and not according to what <hi>Vain</hi> Man hath thought upon, and con<g ref="char:EOLhyphen"/>cluded.</p>
+            <p>
+               <hi>Firſt,</hi> If the <hi>Lord</hi> by a Decree <hi>unalterable,</hi> hath fixed <hi>Man</hi> to the <hi>one,</hi> or to the <hi>other,</hi> then <hi>Man</hi> ſtands but as a <hi>Paſſive</hi> Creature, ſuffering the exerciſe <hi>onely</hi> of <hi>Divine</hi> Pleaſure upon <hi>him,</hi> as to <hi>his</hi> condition, not at all having to do in the <hi>determination</hi> upon <hi>him</hi> of the Pleaſure that is <hi>Divine;</hi> which is <hi>groſs</hi> to imagine. For <hi>this</hi> would take away the <hi>activity</hi> of the <hi>Creature,</hi> and <hi>his</hi> choice as to <hi>either,</hi> and make <hi>him</hi> like a <hi>lump</hi> of <hi>Lead,</hi> ſolidly determined to what place <hi>he</hi> is caſt, without <hi>alteration</hi> or <hi>choice,</hi> as to <hi>his</hi> Center, from which of <hi>himſelf he</hi> can <hi>never</hi> remove. <hi>Theſe</hi> things would be <hi>ſtrange</hi> to aſſert, yet <hi>this</hi> Poſition aſſerts the <hi>thing,</hi> which places <hi>Man</hi> out of <hi>his</hi> activity or <hi>choice,</hi> into a <hi>heavy, dead, lumpiſh</hi> condi<g ref="char:EOLhyphen"/>tion, out of which <hi>he</hi> can <hi>never</hi> be removed.</p>
+            <p>
+               <hi>Secondly,</hi> In the <hi>next</hi> place, if the <hi>determination</hi> of <hi>God</hi> ſtands upon the <hi>choice</hi> of <hi>Man,</hi> and the <hi>Veſſels</hi> of <hi>Wrath,</hi> and the <hi>Veſſels</hi> of <hi>Mercy</hi> depend upon the <hi>mutability</hi> of <hi>Man,</hi> then hath the <hi>Determina<g ref="char:EOLhyphen"/>tion</hi> of <hi>God</hi> no foundation; for <hi>Man</hi> being the <hi>Bottom</hi> or <hi>Center,</hi> and <hi>his</hi> turning and winding the <hi>Achme,</hi> or <hi>determination</hi> of <hi>his</hi> ſtate, <hi>Another</hi> thing cannot be ſaid to be the <hi>determination</hi> of <hi>Man;</hi> For<g ref="char:EOLhyphen"/>aſmuch as <hi>two</hi> Determinations or Centers, in <hi>one</hi> and the <hi>ſame</hi> be<g ref="char:EOLhyphen"/>ing, cannot ſubſiſt.</p>
+            <p>
+               <hi>Thirdly,</hi> If the <hi>determination</hi> of <hi>Mans</hi> eternal State ſtands in a <hi>reſolution</hi> which was had from <hi>all</hi> Eternity, then <hi>Man</hi> was before <hi>he</hi> was made; which is <hi>abſurd</hi> to imagine. For <hi>Reſolution</hi> and things relative as to <hi>Conſiſtances</hi> are <hi>conterminate</hi> in the <hi>ſame</hi> being, that is to ſay, <hi>God,</hi> and <hi>his</hi> reſol<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tion concerning <hi>Man,</hi> and the <hi>being</hi> of <hi>Man,</hi> are contemporate; <hi>viz.</hi> When <hi>he</hi> made Man, <hi>he</hi> determined concerning <hi>Man,</hi> and not before. For, the <hi>determination</hi> of <hi>God,</hi> and the <hi>being</hi> of <hi>things,</hi> are Relatives, that is, as to <hi>their</hi> beings, <hi>they</hi> have relation one to another. <hi>God ſaid, Let there be Light, and there was Light.</hi> So that to affirm that the <hi>determination</hi> of <hi>God</hi> from <hi>all</hi> Eternity concerning <hi>Man</hi> was <hi>ſo</hi> and <hi>ſo</hi> as aforeſaid; is to
+<pb n="7" facs="tcp:42313:4"/> affirm that <hi>Man</hi> was from <hi>all</hi> eternity; and <hi>ſo,</hi> that <hi>Man</hi> was be<g ref="char:EOLhyphen"/>fore <hi>his</hi> being; which (as <hi>I</hi> have ſaid) is <hi>abſurd</hi> to think.</p>
+            <p>
+               <hi>Fourthly, Man</hi> and <hi>his</hi> being are Correlatives, that is to ſay, <hi>Man</hi> was not before <hi>his</hi> being; and ſo, to ſay that the <hi>purpoſe</hi> of <hi>God</hi> was before <hi>Man</hi> was, concerning <hi>Man,</hi> is to ſay, That the <hi>Being</hi> of <hi>Man,</hi> and <hi>Man,</hi> is diſtinct. For (as I have ſaid) <hi>Man,</hi> and the <hi>purpoſe</hi> of <hi>God</hi> concerning <hi>Man,</hi> or <hi>his</hi> Being, are contempo<g ref="char:EOLhyphen"/>rary; though the <hi>one</hi> hath the priority before the <hi>other,</hi> that is to ſay, the <hi>purpoſe</hi> of making, or putting a Creature <hi>ſo</hi> and <hi>ſo,</hi> before the Creature's <hi>being</hi> made <hi>ſo</hi> and <hi>ſo,</hi> and <hi>ſo</hi> put; which is <hi>incongru<g ref="char:EOLhyphen"/>ous</hi> to reaſon.</p>
+            <p>
+               <hi>Fifthly,</hi> The <hi>Gifts,</hi> and <hi>Calling of God are without Repentance,</hi> as the <hi>Apoſtle</hi> teſtifies, <hi>Rom.</hi> 11. 29. Now if <hi>God</hi> called <hi>Man</hi> to <hi>Damnation;</hi> and if <hi>he</hi> called him to <hi>Life,</hi> and gave <hi>him</hi> Gifts ac<g ref="char:EOLhyphen"/>cordingly; For, <hi>what hath Man that he hath not received?</hi> Then <hi>Man</hi> is determined to a <hi>ſtate</hi> of <hi>Deſtruction</hi> or <hi>Life;</hi> and <hi>he</hi> muſt needs be ſubject to <hi>either,</hi> as <hi>he</hi> is unto <hi>Life</hi> or <hi>Deſtruction</hi> deter<g ref="char:EOLhyphen"/>mined; which is <hi>Blaſphemy</hi> to ſpeak.</p>
+            <p>
+               <hi>Sixthly,</hi> And to add no more, <hi>No</hi> Man is concluded to <hi>Life,</hi> or <hi>Death,</hi> but as <hi>he</hi> hath to doing in the <hi>things</hi> that appertain to <hi>Death</hi> or <hi>Life.</hi> 
+               <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Principles,</hi> and <hi>their</hi> ends are <hi>connatural;</hi> A <hi>Man</hi> cannot come to the <hi>end</hi> of a <hi>thing,</hi> but <hi>he</hi> muſt <hi>firſt</hi> be in the <hi>be<g ref="char:EOLhyphen"/>ginning. He</hi> that is Damned muſt come in the <hi>way</hi> of <hi>Deſtruction,</hi> and <hi>he</hi> that is Saved, into the <hi>Path</hi> of <hi>Life;</hi> for the <hi>things</hi> are <hi>con<g ref="char:EOLhyphen"/>ſiſtent. I</hi> am in the <hi>Way</hi> if <hi>I</hi> come to <hi>Life,</hi> and <hi>I</hi> am in the <hi>Path</hi> if <hi>I</hi> arrive at <hi>Death; theſe</hi> things are obvious. But if <hi>I</hi> am deter<g ref="char:EOLhyphen"/>mined to <hi>Death,</hi> or <hi>Life,</hi> before <hi>I</hi> am made, (and if from <hi>all</hi> Eter<g ref="char:EOLhyphen"/>nity <hi>I</hi> am <hi>ſo</hi> determined, <hi>I</hi> am determined <hi>ſo</hi> before <hi>I</hi> am made) then <hi>I</hi> am determined to the <hi>End,</hi> before <hi>I</hi> am come to the <hi>Begin<g ref="char:EOLhyphen"/>ning,</hi> and ſo <hi>I</hi> am that in <hi>Decree,</hi> which <hi>I</hi> am not in <hi>Being;</hi> nor <hi>poſſibly</hi> can be according to the <hi>nature</hi> of <hi>things</hi> that are made, which have their <hi>Order, Relations, Conſistencies, Duration, End,</hi> and <hi>Be<g ref="char:EOLhyphen"/>ginning,</hi> according to the <hi>Law</hi> and <hi>Order</hi> of <hi>him</hi> who hath given its being to <hi>every</hi> thing; who obſerves <hi>his</hi> own Order, and requires not the Creature againſt <hi>his own</hi> Law and Order.</p>
+            <pb n="8" facs="tcp:42313:5" rendition="simple:additions"/>
+            <p> Theſe things <hi>I</hi> write to draw off people from <hi>their</hi> unreaſonable apprehenſions of <hi>God</hi> and <hi>themſelves,</hi> and to put things into <hi>their</hi> due Place and Order, and there to underſtand <hi>them,</hi> where the <hi>Lord</hi> hath placed <hi>them;</hi> and not to rove in <hi>their</hi> Fancies and Ima<g ref="char:EOLhyphen"/>ginations in <hi>things</hi> of <hi>this</hi> weight and depth. And <hi>I</hi> have the ra<g ref="char:EOLhyphen"/>ther entred upon <hi>this,</hi> for <hi>this</hi> cauſe, that <hi>Man</hi> may come into an <hi>even</hi> and <hi>due</hi> poize, in things of <hi>this</hi> nature, which concern <hi>their</hi> everlaſting happineſs.</p>
+            <p>And ſo <hi>I</hi> have opened this <hi>Myſtery</hi> ſo far as the <hi>Spirit</hi> of the <hi>Lord</hi> hath ordered <hi>me</hi> to ſpeak.</p>
+            <closer>
+               <dateline>
+                  <hi>Briſtol</hi> 
+                  <date>the 13th, of the 11th. month, 1666.</date>
+               </dateline>
+               <signed>Geo. Biſhope.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
